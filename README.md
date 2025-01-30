@@ -26,4 +26,4 @@ A simple yet engaging Memory Game where players flip cards to find matching pair
    ```bash
    git clone https://github.com/Vigneshlearneveryday/Memory-Game.git
 
-   End Point : 
+   End Point : https://memorygamedrill.netlify.app/
